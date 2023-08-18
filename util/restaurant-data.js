@@ -15,6 +15,6 @@ function storeRestaurants(storableRestaurants) {
 };
 
 module.exports = {
-    getStoredRestaurants: getStoredRestaurants, /*le premier est la key utilisée dans les autres fichiers, le second reprend le nom à la ligne 5*/
+    getStoredRestaurants: getStoredRestaurants, /*le premier est la key utilisée dans les autres fichiers, le second reprend le nom à la ligne 6*/
     storeRestaurants: storeRestaurants
 };
